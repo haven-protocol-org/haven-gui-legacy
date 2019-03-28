@@ -219,6 +219,7 @@ win32 {
         -lboost_regex-mt-s \
         -lboost_chrono-mt-s \
         -lboost_program_options-mt-s \
+        -lboost_locale-mt \
         -lssl \
         -lcrypto \
         -Wl,-Bdynamic \
